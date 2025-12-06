@@ -1,0 +1,13 @@
+
+{
+  "playlist": [
+    {
+      "title": "Song 1",
+      "url": "https://raw.githubusercontent.com/MohTexExample/MTA-Radio/main/song1.mp3"
+    },
+    {
+      "title": "Song 2",
+      "url": "https://raw.githubusercontent.com/MohTexExample/MTA-Radio/main/song2.mp3"
+    }
+  ]
+}
